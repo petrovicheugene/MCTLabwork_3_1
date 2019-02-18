@@ -41,7 +41,7 @@ int main()
 			<< " Num of intervals " << num_intervals << endl << endl;
 	}
 
-	getchar();
+	system("pause");
 	return 0;
 }
 //=====================================================
